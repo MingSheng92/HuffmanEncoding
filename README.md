@@ -31,4 +31,4 @@ Now that we know how huffman encoding works, it will be interesting it we can tr
 
 ### Reference & reading materials
 1. [Huffman coding, Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
-2. [Huffman coding](http://homes.sice.indiana.edu/yye/lab/teaching/spring2014-C343/huffman.php)
+2. [Huffman coding, Indiana University Bloomington](http://homes.sice.indiana.edu/yye/lab/teaching/spring2014-C343/huffman.php)

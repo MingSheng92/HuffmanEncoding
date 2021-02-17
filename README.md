@@ -29,6 +29,6 @@ You can check out the code in [action](https://github.com/MingSheng92/HuffmanEnc
 
 Now that we know how huffman encoding works, it will be interesting it we can try to apply this algorithm to more complex problems, eg. encode a black and white image with huffman encoding.
 
-### Reference
+### Reference & reading materials
 1. [Huffman coding, Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
-2. 
+2. [Huffman coding](http://homes.sice.indiana.edu/yye/lab/teaching/spring2014-C343/huffman.php)
